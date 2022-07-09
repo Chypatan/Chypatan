@@ -1,14 +1,3 @@
-- 👋Hello, I'm Chupatan. I am not a programmer. I work in a factory and try to learn the python programming language using the Pydroid3 app on my android smartphone. Programming feels like some kind of magic to me, when sometimes amazing things come out of nothing. It's really amazing.
+- 👋Привет, я Chupatan. Я не программист, я просто в свободное время изучаю Python. Это приложения для смартфона на операционной системе андроид. Оно написано на языке программирования Python 3, с использованием фреймворка Kivy и KivyMD. Оно ещё не завершено, и я его пишу для себя, что бы мне было проще запоминать различные вещи. Будь то какие-нибудь даты, или слова английского языка, или какие-нибудь термины. Приложение спроектировано похожим на викторину, или ещё его можно сравнить с тестом. Оно предполагает, что я просто зазубрю нужную мне информацию, как таблице умножения.
 
-
-- 👀 I am interested in the development of mobile applications for android in the programming language python. I am also very interested in the Kotlin programming language, because it was developed by my compatriots.
-
-
-- 🌱 At the moment I am learning to program on the Kivy framework and KivyMD. When I have free time at home (it's a pity that this happens rarely), I sit down at the computer and study the Kotlin programming language from the book "Head First Kotlin". I learn the Python programming language from articles on the Internet.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Chypatan/Chypatan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋Hello, I'm Chupatan. I'm not a programmer, I just learn Python in my spare time. These are applications for smartphones on the Android operating system. It is written in the Python 3 programming language, using the Kivy framework and KivyMD. It is not yet completed, and I am writing it for myself, so that it would be easier for me to remember various things. Whether it be some dates, or words of the English language, or some terms. The application is designed to look like a quiz, or else it can be compared to a test. It assumes that I just memorize the information I need, like a multiplication table.
